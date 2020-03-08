@@ -1,0 +1,89 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+/*header*/
+
+.header{
+	width: 1000px;
+	height:58px;
+	background: black;
+	margin: 0 auto;
+}
+.header img{
+	float: left;
+}
+a{color: white;
+	text-decoration: none;
+	padding-left: 30px;
+	padding-right: 40px;
+	line-height: 58px;
+	float: left;
+	border-right: 1px solid #252947;
+
+}
+.in{
+	border-right: 0;
+}
+.ho{
+	padding-left: 60px;
+}
+/*banner*/
+.banner{
+	width: 1000px;
+	height: 465px;
+	background: green;
+	margin: 0 auto;
+}
+
+/*crtp*/
+.crtp{
+	width: 1000px;
+	height:307px;
+	background:white;
+	float: left;
+	padding-top: 40px;
+	margin: 0 auto;
+
+}
+.do{
+	float: left;
+	padding-top: 40px;
+	padding-right: 45px;
+}
+.picOne{
+	text-align: center;
+	padding-top: 40px;
+	color: #38b774;
+}
+.hil{
+	float: left;
+	padding-top: 40px;
+	padding-right: 45px;
+}
+.picTwo{
+	text-align: center;
+	padding-top: 40px;
+	color: #38b774;
+}
+.tk{
+	float: left;
+	padding-top: 40px;
+	padding-right: 44px;
+}
+.picThree{
+	text-align: center;
+	padding-top: 40px;
+	color: #38b774;
+}
+.pok{
+	float: left;
+	padding-top: 40px;
+	padding-right: 44px;
+}
+.picFour{
+	text-align: center;
+	padding-top: 40px;
+	color: #38b774;
+}

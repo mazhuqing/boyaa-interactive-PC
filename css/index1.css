@@ -1,0 +1,137 @@
+*{
+	margin: 0;
+	padding:0;
+}
+
+	/*head头部*/
+.headTop{
+	width: 1000px;
+	height: 58px;
+	background-color: #191d3a;
+	margin: 0 auto;
+}
+.picHead{
+	float: left;
+}
+.uls li{
+	width: 150px;
+	height: 58px;
+	list-style: none;
+	float: left;
+	color: #d6e4e2;
+	line-height: 58px;
+	text-align: center;
+	border-right: 1px solid #7f88c5;
+}
+.uls .lis{
+	border-right: 0;
+}
+
+	/*banner1内容*/
+.bannerOne{
+	width: 1000px;
+	height: 463px;
+	margin: 0 auto;
+}
+
+	/*banner2内容*/
+.bannerTwo{
+	width: 1000px;
+	height: 307px;
+	margin: 0 auto;
+	padding-top: 37px;
+}
+.picOne{
+	width: 218px;
+	height: 180px;
+	float: left;
+	margin-right: 42px;
+}
+.picTwo{
+	width: 218px;
+	height: 180px;
+	float: left;
+	margin-right: 43px;
+}
+.picThree{
+	width: 218px;
+	height: 180px;
+	float: left;
+	margin-right: 42px;
+}
+.picFour{
+	width: 218px;
+	height: 180px;
+	float: left;
+}
+.page{
+	text-align: center;
+	color: #38c6d3;
+}	
+	/*banner3内容*/
+.bannerThree{
+	width: 1000px;
+	height: 362px;
+	margin: 0 auto;
+}
+.news{
+	width: 560px;
+	height: 304px;
+	float: left;
+	display: block;
+}
+.ne1{
+	float: left;
+}
+.ne2{
+	float: right;
+}
+
+.lis{
+	width: 560px;
+	height: 233px;
+	list-style: none;
+	display: list-item;
+}
+
+.lis li{
+	float: left;
+	
+	border-bottom: 1px solid #dbe1e7;
+	line-height: 45px;
+	margin-top: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+ span{
+	float: right;
+	color: gray;
+}
+
+.promo{
+	width: 401px;
+	height: 248px;
+	float: right;
+	display: block;
+}
+.boy{
+	margin-top: 30px;
+}
+
+	/*footer底部*/
+
+
+.footer{
+	width: 1000px;
+	height: 131px;
+	background-color: #1b1e38;
+	margin: 0 auto;
+}
+p{
+	text-align: center;
+	line-height: 131px;
+	color: #36395f;
+}
